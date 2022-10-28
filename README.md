@@ -9,11 +9,9 @@
 
 
  
-</div>  
-## Github Status
-</div>
 
-<p align='left'><img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=creatornadiran&count_private=true&theme=radical"/></p>
+
+<p align='left'><img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=Denizk7&count_private=true&theme=radical"/></p>
 <p align='center'><img  style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Denizk7&theme=radical"/></p>
 <p align='right'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denizk7&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
 
