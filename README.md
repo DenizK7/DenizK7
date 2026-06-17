@@ -127,6 +127,13 @@ motto:     "Make it work, make it right, make it scale."
 <img src="https://img.shields.io/badge/Mistral%20AI-161b22?style=flat-square&logo=mistralai&logoColor=FA520F" alt="Mistral AI" height="28" />
 <img src="https://img.shields.io/badge/Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" height="28" />
 
+`Google Cloud Platform`
+
+<img src="https://img.shields.io/badge/Vertex%20AI-161b22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Vertex AI" height="28" />
+<img src="https://img.shields.io/badge/Document%20AI-161b22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Document AI" height="28" />
+<img src="https://img.shields.io/badge/Gemini%20API-161b22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" height="28" />
+<img src="https://img.shields.io/badge/Identity%20Platform%20%C2%B7%20SSO-161b22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Identity Platform / SSO" height="28" />
+
 `Vector & Search`
 
 <img src="https://img.shields.io/badge/Qdrant-161b22?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" height="28" />
